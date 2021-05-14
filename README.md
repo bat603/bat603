@@ -9,3 +9,4 @@ bat603/bat603 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
  $ İsrail Hacker Mood
+Im Hacker Boond Im Turkish
